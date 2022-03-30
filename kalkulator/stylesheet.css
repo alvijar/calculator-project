@@ -1,7 +1,7 @@
 .calculator {
     text-align: center;
     margin: 0 auto;
-    padding-top: 200px;
+    padding: 50px 500px;
 }
 
 .calculator-screen {
@@ -48,4 +48,19 @@ button:hover {
 
 .operator:hover, .equal-sign:hover {
     background-color: darkorange;
+}
+
+@media all and (max-width: 1000px) {
+    .calculator {
+        text-align: center;
+        margin: 0 auto;
+        padding: 10% 25%;
+    }
+}
+@media all and (max-width: 670px) {
+    .calculator {
+        text-align: center;
+        margin: 0 auto;
+        padding: 5% 10%;
+    }
 }
