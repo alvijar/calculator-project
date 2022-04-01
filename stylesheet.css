@@ -54,13 +54,13 @@ button:hover {
     .calculator {
         text-align: center;
         margin: 0 auto;
-        padding: 10% 25%;
+        padding: 10% 15%;
     }
 }
 @media all and (max-width: 670px) {
     .calculator {
         text-align: center;
         margin: 0 auto;
-        padding: 5% 10%;
+        padding: 5% 5%;
     }
 }
