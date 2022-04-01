@@ -54,7 +54,7 @@ button:hover {
     .calculator {
         text-align: center;
         margin: 0 auto;
-        padding: 10% 15%;
+        padding: 50% 5%;
     }
 }
 @media all and (max-width: 670px) {
